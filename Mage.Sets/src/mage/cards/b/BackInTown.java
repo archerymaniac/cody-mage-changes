@@ -25,7 +25,6 @@ public final class BackInTown extends CardImpl {
 
     public BackInTown(UUID ownerId, CardSetInfo setInfo) {
         super(ownerId, setInfo, new CardType[]{CardType.SORCERY}, "{X}{2}{B}");
-
         // Return X target outlaw creature cards from your graveyard to the battlefield.
         this.getSpellAbility().addEffect(new ReturnFromGraveyardToBattlefieldTargetEffect()
                 .setText("return X target outlaw creature cards from your graveyard to the battlefield"));
