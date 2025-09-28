@@ -16,8 +16,8 @@ public final class AAAACODYCUBE extends ExpansionSet {
     }
 
     private AAAACODYCUBE() {
-        super("Aetherdrift", "DFT", ExpansionSet.buildDate(2025, 6, 5), SetType.EXPANSION);
-        this.blockName = "Aetherdrift"; // for sorting in GUI
+        super("AAAACODYCUBE", "CCC", ExpansionSet.buildDate(2025, 6, 5), SetType.EXPANSION);
+        this.blockName = "AAAACODYCUBE"; // for sorting in GUI
 
         this.enablePlayBooster(Integer.MAX_VALUE);
 

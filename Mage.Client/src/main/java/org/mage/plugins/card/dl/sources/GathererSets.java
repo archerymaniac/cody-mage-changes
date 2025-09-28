@@ -67,7 +67,7 @@ public class GathererSets implements Iterable<DownloadJob> {
             "ME2", "ME3", "ME4",
             "POR", "P02", "PTK",
             "ARC", "DD3EVG",
-            "W16", "W17", 
+            "W16", "W17", "CCC",
             // "PALP" -- Gatherer does not have the set Asia Pacific Land Program
             // "ATH" -- has cards from many sets, symbol does not exist on gatherer
             // "CP", "DPA", "PELP", "PGPX", "PGRU", "H17", "JR", "SWS", // need to fix
